@@ -1,0 +1,19 @@
+
+.body{
+    background-color:rgb(182, 181, 181);
+}
+.d-flex{
+    position: relative;
+    right: 270px;
+    width: 400px;
+   
+}
+.login{
+    position: relative;
+    right: 20px;
+    width: 120px;
+}
+.signup{
+    position: relative;
+ width: 120px;
+}
